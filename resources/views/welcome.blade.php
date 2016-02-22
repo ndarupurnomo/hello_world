@@ -39,6 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5.2, actually, really</div>
+                <div class="title">Kulonuwun...</div>
             </div>
         </div>
     </body>
